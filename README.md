@@ -1,5 +1,8 @@
-# Bitwise Operations (Python)
+# python-bitwise-operations  
 
+Auhtor:  Erin James Wills, ejw.data@gmail.com   
+
+![Bitwise Operations](./images/py-bitwise.png)
 ### Purpose
 > Occasionally I am asked during the bootcamp to explain the difference between bitwise and logical operators when using pandas.  I created this repo to have handy so I can provide some examples more quickly.
 
