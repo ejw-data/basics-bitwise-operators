@@ -41,4 +41,4 @@ Not applicable
 1. Activate your environment
 1. Clone the repo to your local machine
 1. Navigate the terminal to the repo folder
-1. In the terminal, run `python initial_example.ipynb`  
+1. Run `python initial_example.ipynb`  
